@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1779498977 source:c:\temp\ws-cb\soma_impares\main.c
+	<stdio.h>
+
+1786491490 source:c:\temp\ws-cb\soma_impares\main.cpp
+	<iostream>
+
